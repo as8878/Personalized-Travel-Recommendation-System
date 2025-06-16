@@ -33,13 +33,9 @@ The system includes:
 
 ## Architecture
 
-* **Injection Pipeline**
-![alt text](<Blank diagram - Page 1 (2).png>)
+![Injection Pipeline](<Blank diagram - Page 1 (2).png>)
 
-
-
-* **RAG Query Pipeline**
-![alt text](<Blank diagram - Page 1 (1).png>)
+![RAG Query Pipeline](<Blank diagram - Page 1 (1).png>)
 
 
 
