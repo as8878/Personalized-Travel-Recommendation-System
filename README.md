@@ -32,9 +32,9 @@ The system includes:
 ---
 
 ## Architecture
-
+# Injection Pipeline
 ![Injection Pipeline](<Blank diagram - Page 1 (2).png>)
-
+### RAG Query Pipeline
 ![RAG Query Pipeline](<Blank diagram - Page 1 (1).png>)
 
 
