@@ -79,5 +79,3 @@ The system includes:
 * Add user preference personalization (budget, trip length, interests).
 * Support for multimodal data (images, maps).
 * Web interface and real-time query serving.
-
----
