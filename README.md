@@ -48,14 +48,6 @@ The system includes:
 * **Query Classification:** Mixtral (Groq)
 * **Embeddings:** HuggingFace Sentence Transformers
 * **PDF Parsing:** PyPDFLoader
-
----
-
-## File Structure
-
-* `Finetuning_Llama_2_using_QLORA.ipynb` — Fine-tunes LLaMA-2 using QLoRA on travel-specific datasets.
-* `ingest.py` — Handles document ingestion and embedding storage in Pinecone.
-* `RAG_on_fine_tuned_LLAMA_model.ipynb` — Runs full RAG pipeline for answering queries.
 ---
 
 ## Dataset
